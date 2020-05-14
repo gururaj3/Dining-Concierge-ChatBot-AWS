@@ -1,11 +1,10 @@
 # Dining-Concierge-Chatbot
-Dining Concierge Chatbot
-# Dining-Concierge-Chat-App
 This is a serverless, micro service-driven web application created completely using AWS cloud services. The main application of this chatbot is to provide restaurant suggestions to its users based on the preferences provided to it through conversations.
 
 We have support for Yelp-API with suggestions and real time chat. 
 
 ## Chat Example
+![Website](Images/FrontEnd.PNG)
 ![example](Images/UserChat.PNG)
 
 ## Chat Architecture Diagram
