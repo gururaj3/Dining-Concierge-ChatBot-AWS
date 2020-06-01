@@ -5,7 +5,7 @@ We have support for Yelp-API with suggestions and real time chat.
 
 ## Chat Example
 ![Website](Images/FrontEnd.PNG)
-![Website](Images/FB messenger.png)
+![Website](Images/FBmessenger.png)
 ![example](Images/UserChat.PNG)
 
 ## Chat Architecture Diagram
